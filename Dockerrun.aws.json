@@ -1,0 +1,14 @@
+{
+    "Image": {
+    "Name": "275058569832.dkr.ecr.eu-central-1.amazonaws.com/repo6:latest",
+    "Update": "true"
+  },
+  "AWSEBDockerrunVersion": "1",
+  "Ports": [
+    {
+      "ContainerPort": 5000,
+      "HostPort": 8000
+    }
+  ]
+}
+
